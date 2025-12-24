@@ -72,5 +72,5 @@ streamlit run test.py
 ## 📬 Contact
 
 For queries :
-**M Vishal**  
-🔗 [LinkedIn](https://linkedin.com/in/mudragada-vishal-43039a172) | [GitHub](https://github.com/MudragadaVishal)
+**Manoj Zagade
+**| [GitHub](https://github.com/manojzagade)
